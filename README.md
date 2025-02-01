@@ -1,10 +1,10 @@
 # GitHub_Runner_Token_Stealer
 
-## To use this code please make sure to install below modules before running the code.
+## To use this code, please ensure that you install the modules listed below before running it.
 ```
 pip install PyGithub
 pip install colorama
 ```
-## What the use age of this code
-This code is developed as part of PoC to should how an Github workflow runner token(short-live token) can yields in gaining access to victims repo.
+## What's the usage of this code
+This code is developed as part of PoC to show how a GitHub workflow runner token (short-lived token) can yield access to the victim's repo.
 
